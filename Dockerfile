@@ -7,3 +7,4 @@ RUN pip install aliyun-log-python-sdk
 RUN pip install python-dotenv
 RUN pip install pymysql
 RUN pip install kafka-python
+RUN pip install SQLAlchemy
